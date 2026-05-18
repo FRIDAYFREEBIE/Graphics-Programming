@@ -43,7 +43,7 @@
 ## 📄 Study Resources
 
 ### 📚 01. Bresenham Algorithm and Scanline Algorithm
-![Gameplay GIF](./Image/gif/play.gif)
+![Gameplay GIF](./Image/gif/01.gif)
 - [Post Title](Post link)
 
 ---
